@@ -174,7 +174,7 @@ PyTorch and PyTorch Geometric installations can be platform/CUDA-specific. If in
 Open the notebook included in your repository, e.g.:
 
 ```bash
-jupyter notebook "skin-disease-trail1(2).ipynb"
+jupyter notebook "skin-disease-trail1.ipynb"
 ```
 
 In Kaggle, make sure the ISIC 2019 dataset is attached and **adjust `IMAGE_DIR` to the actual image folder**. The uploaded notebook currently hard-codes a Kaggle path:
