@@ -197,7 +197,7 @@ Suggested layout when publishing the project (add only files that you actually c
 ```text
 project-repository/
 ├── README.md
-├── skin-disease-trail1(2).ipynb   # ISIC 2019 experiment notebook
+├── skin-disease-trail1.ipynb   # ISIC 2019 experiment notebook
 └── .gitignore                    # Optional: exclude local data/checkpoints
 ```
 
